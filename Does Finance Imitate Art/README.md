@@ -5,8 +5,9 @@ The goal of this project is to look deeper into the patterns and characteristics
 <img src="figs/notes.png" width="300">
 
 <h3>Title: Does Finance Imitate Art?</h3> 
-This project finds if there is a connection between the worlds of finance and art. 
+<p>This project finds if there is a connection between the worlds of finance and art.</p> 
 
 
 
-Project <a href="doc/Project1_dps2150.Rmd">Project1_dps2150.Rmd</a> with <a href="doc/Project1_dps2150.html">markdown html</a> are found in doc folder. 
+Post Markdown<a href="https://htmlpreview.github.io/?https://github.com/dps2150/DS-Blog/blob/main/Does%20Finance%20Imitate%20Art/doc/Project1_dps2150.html">View Post/a>  
+
