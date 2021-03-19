@@ -9,5 +9,5 @@ The goal of this project is to look deeper into the patterns and characteristics
 
 
 
-Post Markdown<a href="https://htmlpreview.github.io/?https://github.com/dps2150/DS-Blog/blob/main/Does%20Finance%20Imitate%20Art/doc/Project1_dps2150.html">View Post/a>  
+Post Markdown<a href="https://htmlpreview.github.io/?https://github.com/dps2150/DS-Blog/blob/main/Does%20Finance%20Imitate%20Art/doc/Project1_dps2150.html">View Post</a>  
 
